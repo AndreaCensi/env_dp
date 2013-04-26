@@ -4,6 +4,9 @@ url: git@github.com:AndreaCensi/env_dp.git
 dir: src/contracts
 url: git@github.com:AndreaCensi/contracts.git
 ---
+dir: src/astatsa
+url: git@github.com:AndreaCensi/astatsa.git
+---
 dir: src/compmake
 url: git@github.com:AndreaCensi/compmake.git
 ---
@@ -19,26 +22,17 @@ url: git@github.com:AndreaCensi/reprep.git
 dir: src/conf_tools
 url: git@github.com:AndreaCensi/conf_tools.git
 ---
+dir: src/quickapp
+url: git@github.com:AndreaCensi/quickapp.git
+---
 dir: src/boot_olympics
 url: git@github.com:AndreaCensi/boot_olympics.git
 ---
 dir: src/rosstream2boot
 url: git@github.com:AndreaCensi/rosstream2boot.git
 ---
-dir: src/bvapps
-url: git@github.com:AndreaCensi/bvapps.git
----
 dir: src/boot_agents
 url: git@github.com:AndreaCensi/boot_agents.git
 ---
-dir: src/utils
-url: git@github.com:AndreaCensi/utils.git
----
 dir: src/surf12adam
 url: git@github.com:AndreaCensi/surf12adam.git
----
-dir: src/quickapp
-url: git@github.com:AndreaCensi/quickapp.git
----
-dir: src/astatsa
-url: git@github.com:AndreaCensi/astatsa.git
