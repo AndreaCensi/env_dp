@@ -34,5 +34,8 @@ url: git@github.com:AndreaCensi/rosstream2boot.git
 dir: src/boot_agents
 url: git@github.com:AndreaCensi/boot_agents.git
 ---
-dir: src/surf12adam
-url: git@github.com:AndreaCensi/surf12adam.git
+dir: src/diffeo
+url: git@github.com:AndreaCensi/diffeo.git
+---
+dir: src/diffeoplan
+url: git@github.com:AndreaCensi/diffeoplan.git
