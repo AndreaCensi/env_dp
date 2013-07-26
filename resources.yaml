@@ -56,4 +56,11 @@ branch: env_dp
 dir: docs/diffeoplan-docs
 url: git@github.com:AndreaCensi/diffeoplan-docs.git
 branch: env_dp
-
+---
+dir: docs/writingtools
+url: git@github.com:AndreaCensi/writingtools.git
+branch: env_dp
+---
+dir: src/latex_symbol_list
+url: git@github.com:AndreaCensi/latex_symbol_list.git
+branch: env_dp
