@@ -16,3 +16,6 @@ surf12adam
 diffeo
 diffeoplan
 latex_symbol_list
+comptests
+latex_gen
+ros_node_utils/

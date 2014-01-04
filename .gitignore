@@ -1,2 +1,5 @@
 environment.sh
 deploy
+deploy.old
+out-compmake-tests
+.compmake_history.txt
